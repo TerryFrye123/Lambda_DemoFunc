@@ -1,0 +1,10 @@
+E:\Development\Home\AWS Core 2\DemoFunc\src\DemoFunc\bin\Release\netcoreapp2.0\linux-x64\DemoFunc.deps.json
+E:\Development\Home\AWS Core 2\DemoFunc\src\DemoFunc\bin\Release\netcoreapp2.0\linux-x64\DemoFunc.runtimeconfig.json
+E:\Development\Home\AWS Core 2\DemoFunc\src\DemoFunc\bin\Release\netcoreapp2.0\linux-x64\DemoFunc.runtimeconfig.dev.json
+E:\Development\Home\AWS Core 2\DemoFunc\src\DemoFunc\bin\Release\netcoreapp2.0\linux-x64\DemoFunc.dll
+E:\Development\Home\AWS Core 2\DemoFunc\src\DemoFunc\bin\Release\netcoreapp2.0\linux-x64\DemoFunc.pdb
+E:\Development\Home\AWS Core 2\DemoFunc\src\DemoFunc\obj\Release\netcoreapp2.0\linux-x64\DemoFunc.csproj.CoreCompileInputs.cache
+E:\Development\Home\AWS Core 2\DemoFunc\src\DemoFunc\obj\Release\netcoreapp2.0\linux-x64\DemoFunc.AssemblyInfoInputs.cache
+E:\Development\Home\AWS Core 2\DemoFunc\src\DemoFunc\obj\Release\netcoreapp2.0\linux-x64\DemoFunc.AssemblyInfo.cs
+E:\Development\Home\AWS Core 2\DemoFunc\src\DemoFunc\obj\Release\netcoreapp2.0\linux-x64\DemoFunc.dll
+E:\Development\Home\AWS Core 2\DemoFunc\src\DemoFunc\obj\Release\netcoreapp2.0\linux-x64\DemoFunc.pdb
